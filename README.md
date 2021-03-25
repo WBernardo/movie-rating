@@ -18,15 +18,15 @@
 
 ## 💻 Sobre o projeto
 
-:movie_camera: Movie Rating - é uma simple page com o intuito de visualizar as avaliações de filmes de acordo com o site [TMDB] (https://www.themoviedb.org/?language=pt-BR).
+:movie_camera: Movie Rating - é uma simple page com o intuito de visualizar as avaliações de filmes de acordo com o site [TMDB](https://www.themoviedb.org/?language=pt-BR).
 
 ---
 
 ## ⚙️ Funcionalidades
 
-  • Visualizar a nota dado ao filme;
-  • Pesquisar o seu filme favorito na barra de pesquisa;
-  • Verificar a sinopse do determinado filme de forma interativa.
+  • Visualizar a nota dado ao filme
+  • Pesquisar o seu filme favorito na barra de pesquisa
+  • Verificar a sinopse do determinado filme de forma interativa
   
 ---
 
@@ -63,7 +63,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 **Utilitários**
 
 -   API:  **[TMDB API](https://www.themoviedb.org/documentation/api)**
--   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**  → Extensions:  **[SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)**
+-   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**
 -   Markdown:  **[StackEdit](https://stackedit.io/)**,  **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
 -   Commit Conventional:  **[Commitlint](https://github.com/conventional-changelog/commitlint)**
 -   Teste de API:  **[Postman](https://www.postman.com)**
