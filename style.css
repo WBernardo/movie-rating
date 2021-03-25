@@ -1,0 +1,145 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap");
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #22254b;
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+}
+
+header {
+    background-color: #373B69;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
+
+header img {
+    height: 90px;  
+}
+
+.search {
+    background-color: transparent;
+    width: 25rem;
+    border: 2px solid #22254b;
+    border-radius: 50px;
+    font-size: 1rem;
+    font-family: inherit;
+    padding: 0.5rem 1rem;
+    margin-right: 20px;
+}
+
+.search::placeholder {
+    text-align: center;
+}
+
+.search:focus {
+    background-color: #22254b;
+    color: #EBE5E2;
+    outline: none;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cardMovie {
+    width: 300px;
+    margin: 1.1rem;
+    overflow: hidden;
+    position: relative;
+    background-color:#373b69;
+    border-radius: 3px;
+    box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2)
+}
+
+.cardMovie:hover
+{
+    -webkit-transform: scale(1.04);
+    -ms-transform: scale(1.04);
+    transform: scale(1.04);
+}
+
+.cardMovie img {
+    width: 100%;
+}
+
+.movieInfo {
+    color: #EBE5E2;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5rem 1rem 1rem;
+    letter-spacing: 0.5px
+}
+
+.movieInfo h3 {
+    margin: 0;
+}
+
+.movieInfo span {
+    background-color: #22254b;
+    border-radius: 3px;
+    font-weight: bold;
+    padding: 0.25rem 0.5rem
+}
+
+.movieInfo span.green {
+    color: #00CC00;
+}
+
+.movieInfo span.orange {
+    color: #FF9900;
+}
+
+.movieInfo span.red {
+    color: #FF0000;
+}
+
+.overview {
+    position: absolute;
+    text-align: center;
+    padding: 2rem;
+    max-height: 100%;
+    overflow: auto;
+    background-color: #EBE5E2;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    transform: translateY(100%);
+    transition: transform 0.5s ease-in;
+}
+
+.cardMovie:hover .overview
+{
+    transform: translateY(0);
+}
+
+@media screen and (max-width: 440px) {
+
+    header img {
+        height: 60px;  
+    }
+
+    .search {
+        width: 10rem;
+        font-size: 0.8rem;
+        padding: 0.4rem 0.6rem;
+        margin-right: 70px;
+    }
+
+    .cardMovie {
+        width: 300px;
+        margin: 2.5rem;
+        overflow: hidden;
+        position: relative;
+        background-color:#373b69;
+        border-radius: 3px;
+        box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2)
+    }
+}
