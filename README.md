@@ -78,7 +78,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <sub><b>Wemerson Bernardo</b></sub></a> <a href="https://www.linkedin.com/in/wemerson-bernardo" title="Wemerson Bernardo">🚀</a>
  <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-Wemerson-Bernardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wemerson-bernardo)](https://www.linkedin.com/in/wemerson-bernardo) 
+[![Linkedin Badge](https://img.shields.io/badge/-Bernardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wemerson-bernardo)](https://www.linkedin.com/in/wemerson-bernardo) 
 [![Gmail Badge](https://img.shields.io/badge/-souzawermeson@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souzawermeson@gmail.com)](mailto:souzawermeson@gmail.com)
 
 ---
