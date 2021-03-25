@@ -74,7 +74,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## :construction_worker: Autor
 
  <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E35AQGU8XorqJ3xDA/profile-framedphoto-shrink_200_200/0/1614192002228?e=1616727600&v=beta&t=NrUJSebZ3WCVq6BgMpe01kGoOcLO7MNgoy_Hd3gXjHU" width="100px;" alt=""/>
- <br />
  <sub><b>Wemerson Bernardo</b></sub></a> <a href="https://www.linkedin.com/in/wemerson-bernardo" title="Wemerson Bernardo">🚀</a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Bernardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wemerson-bernardo)](https://www.linkedin.com/in/wemerson-bernardo) 
